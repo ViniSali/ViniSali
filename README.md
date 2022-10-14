@@ -7,7 +7,9 @@
 
 - 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
 
-- 👨‍💻 Saiba mais em [Meu site de portifólio](https://vinisali.github.io/portifolio-pessoal/)
+- 👨‍💻 Saiba mais em meu<a href="https://vinisali.github.io/portifolio-pessoal/" target="_blank">
+  site de portifólio
+</a>
 <br>
 
 <br>
