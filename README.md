@@ -3,7 +3,7 @@
 
 - 🔥 Desenvolvedor Front-End Junior.
 
-- 🔭 Trabalho Atualmente em projetos para aprendizado.
+- 🔭 Atualmente desenvolvendo projetos para aprimorar conhecimento. 
 
 - 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
 
