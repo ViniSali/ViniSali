@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Vinicius Saliamis</h1>
 <p align="center"></p>
 
-- 🔥 Desenvolvedor Front-End Junior.
+- 🔥 Desenvolvedor Front-End.
 
 - 🔭 Atualmente desenvolvendo projetos para portifólio. 
 
@@ -13,7 +13,7 @@
 <br>
 
 <br>
-<h2 align="center"> Contact </h2>
+<h2 align="center"> Contato </h2>
 
 <p align="center" style="background:yellow">
 <a href="https://www.linkedin.com/in/viniciussaliamis/" target="_blank">
