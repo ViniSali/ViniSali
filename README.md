@@ -3,9 +3,9 @@
 
 - 🔥 Desenvolvedor Front-End Junior.
 
-- 🔭 Atualmente desenvolvendo projetos para aprimorar conhecimento. 
+- 🔭 Atualmente desenvolvendo projetos para portifólio. 
 
-- 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
+- 🌱 Aprendendo Sempre novos recursos, atualmente aprendendo React.JS, TypeScrypt, Api.rest.
 
 - 👨‍💻 Saiba mais em meu<a href="https://vinisali.github.io/portifolio-pessoal/" target="_blank">
   site de portifólio
