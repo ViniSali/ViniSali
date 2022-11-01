@@ -1,14 +1,13 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Vinicius Saliamis</h1>
+<h1 align="center">Vinicius Saliamis</h1>
 <p align="center"></p>
 
 - 🔥 Desenvolvedor Front-End.
 
 - 🔭 Atualmente desenvolvendo projetos para portifólio. 
 
-- 🌱 Aprendendo Sempre novos recursos, atualmente aprendendo React.JS, TypeScrypt, Api.rest.
+- 🌱 Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
 
-- 👨‍💻 Saiba mais em meu<a href="https://vinisali.github.io/portifolio-pessoal/" target="_blank">
-  site de portifólio
+- 👨‍💻 <a href="https://vinisali.github.io/portifolio-pessoal/" target="_blank">Portifólio
 </a>
 <br>
 
