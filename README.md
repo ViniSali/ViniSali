@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
 
-- 👨‍💻 <a href="https://vinisali.github.io/portifolio-pessoal/" target="_blank">Portfólio
+- 👨‍💻 <a href="https://vinisali.github.io/portfolio-pessoal/" target="_blank">Portfólio
 </a>
 <br>
 
